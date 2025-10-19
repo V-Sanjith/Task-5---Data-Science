@@ -41,7 +41,8 @@ Trained and compared multiple models:
 - Logistic Regression  
 - Naive Bayes  
 - Random Forest  
-- Support Vector Machine (SVM)  
+- Support Vector Machine (SVM)
+- XGBoost
 
 ### 5. Model Evaluation
 - Compared accuracy, precision, recall and F1-score.  
