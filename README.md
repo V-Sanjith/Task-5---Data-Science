@@ -88,7 +88,7 @@ Trained and compared multiple models:
 | Naive Bayes | ≈ 0.83 | ≈ 0.82 |
 | Random Forest | ≈ 0.85 | ≈ 0.84 |
 | SVM | ≈ 0.88 | ≈ 0.87 |
-| XGBoost | ≈ 0.85 | 0.84 |
+| XGBoost | ≈ 0.85 | ≈ 0.84 |
 
 **Best Model:** Support Vector Machine (SVM)
 
